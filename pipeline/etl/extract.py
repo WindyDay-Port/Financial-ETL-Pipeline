@@ -9,14 +9,6 @@ from bs4 import BeautifulSoup
 load_dotenv()
 
 
-url = "https://finance.yahoo.com/topic/stock-market-news"
-CryptoPrices = os.getenv("CRYPTO_API_ENDPOINT")
-mrv_data_file = os.getenv("MRV_FILEPATH")
-sp500_data_file = os.getenv("SP500_FILEPATH")
-sp500_index_data_file = os.getenv("SP500_INDEX_FILEPATH")
-sp500_stocks_data_file = os.getenv("SP500_STOCKS_FILEPATH")
-
-
 # Setting up logging
 logger = logging.getLogger(__name__)
 
