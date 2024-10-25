@@ -301,3 +301,4 @@ def insert_articles(dataframe):
 
     finally:
         log_progress("Loading process has completed successfully. Connection is closed")
+        
