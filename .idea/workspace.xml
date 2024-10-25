@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e45b7ad-fff2-432c-b55c-fff5935dc514" name="Changes" comment="re-push the file" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ADMIN &lt;hauvt123vt@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WindyDay-Port&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WindyDay-Port/finance_pipeline.git&quot;,
+    &quot;accountId&quot;: &quot;2848a4a1-3455-4e93-ad93-5acd8ba5deb7&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nHLLhWmcmRUt3gByV0vGitXoXC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.NO.executor": "Run",
+    "Python.No.executor": "Run",
+    "Python.dag_code.executor": "Run",
+    "Python.etl_pipeline_ex.executor": "Run",
+    "Python.extract.executor": "Run",
+    "Python.extract_data.executor": "Run",
+    "Python.load_data.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.transform.executor": "Run",
+    "Python.transform_data.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ADMIN/PycharmProjects/finance_pipeline",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\PycharmProjects\finance_pipeline\pipeline\data" />
+      <recent name="C:\Users\ADMIN\PycharmProjects\finance_pipeline\data\raw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\PycharmProjects\finance_pipeline\pipeline\etl" />
+      <recent name="C:\Users\ADMIN\PycharmProjects\finance_pipeline\pipeline" />
+      <recent name="C:\Users\ADMIN\PycharmProjects\finance_pipeline\" />
+      <recent name="C:\Users\ADMIN\PycharmProjects\finance_pipeline" />
+      <recent name="C:\Users\ADMIN\PycharmProjects\finance_pipeline\.gitignore" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e45b7ad-fff2-432c-b55c-fff5935dc514" name="Changes" comment="" />
+      <created>1728625000748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728625000748</updated>
+    </task>
+    <task id="LOCAL-00001" summary="h">
+      <option name="closed" value="true" />
+      <created>1729830820540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729830820540</updated>
+    </task>
+    <task id="LOCAL-00002" summary="h">
+      <option name="closed" value="true" />
+      <created>1729830836031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729830836031</updated>
+    </task>
+    <task id="LOCAL-00003" summary="h">
+      <option name="closed" value="true" />
+      <created>1729830942750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729830942750</updated>
+    </task>
+    <task id="LOCAL-00004" summary="h">
+      <option name="closed" value="true" />
+      <created>1729832280276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729832280276</updated>
+    </task>
+    <task id="LOCAL-00005" summary="h">
+      <option name="closed" value="true" />
+      <created>1729833313110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729833313110</updated>
+    </task>
+    <task id="LOCAL-00006" summary="re-push the file">
+      <option name="closed" value="true" />
+      <created>1729837672949</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729837672949</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="h" />
+    <MESSAGE value="re-push the file" />
+    <option name="LAST_COMMIT_MESSAGE" value="re-push the file" />
+  </component>
+</project>
