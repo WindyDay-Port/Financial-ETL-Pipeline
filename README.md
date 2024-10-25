@@ -2,8 +2,7 @@ Financial Data ETL Pipeline
 This project implements an ETL (Extract, Transform, Load) pipeline for financial data, including cryptocurrency, S&P 500 stock data, and stock market articles. The pipeline fetches data from various sources, processes and cleans it, and loads the results into a PostgreSQL database. The project supports two configurations: manual script execution and an automated pipeline using Apache Airflow.
 
 Project Structure
-bash
-Copy code
+``` bash
 ├── pipeline/
 │   ├── etl/
 │   │   ├── __init__.py
@@ -19,6 +18,7 @@ Copy code
 ├── data/
 │   ├── *.csv                     # All data files
 └── README.md                     # Project documentation
+```
 Features
 Data Sources:
 Cryptocurrency Data: Fetches historical cryptocurrency rates and transaction data.
