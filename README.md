@@ -13,10 +13,12 @@ This project implements an ETL (Extract, Transform, Load) pipeline for financial
 │       ├── code_log.txt
 ├── workflow/                     # Airflow DAG files
 │   ├── __init__.py
-│   ├── airflow_exc.py            # Airflow DAG for automating the pipeline
-├── config/                       # Configuration files, API keys, etc.
+│   ├── airflow_exc.py            # Airflow DAG for automating the pipeline                      
 ├── data/
 │   ├── .csv                      # All data files
+├── pipeline_execute.py           # Main file to execute the whole pipeline
+├── .gitignore
+├──.gitattributes
 └── README.md                     # Project documentation
 ```
 # Features
