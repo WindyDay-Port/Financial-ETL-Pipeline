@@ -28,14 +28,6 @@ def log_progress(message):
     logger.debug(message)
 
 
-crypto_data_file = os.getenv("CRYPTO_FILEPATH")
-mvr_data_file = os.getenv("MRV_FILEPATH")
-sp500_data_file = os.getenv("SP500_FILEPATH")
-sp500_index_data_file = os.getenv("SP500_INDEX_FILEPATH")
-sp500_stocks_data_file = os.getenv("SP500_STOCKS_FILEPATH")
-scraped_articles_data_file = os.getenv("SCRAPED_ARTICLES_FILEPATH")
-
-
 # Transforming crypto.csv
 def process_crypto_data(crypto_file):
     crypto_df = None
@@ -246,5 +238,3 @@ def transform_scraped_articles(scraped_articles_file):
 
     finally:
         return scraped_articles_df
-
-process_crypto_data(crypto_data_file)
