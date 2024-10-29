@@ -25,14 +25,15 @@ This project implements an ETL (Extract, Transform, Load) pipeline for financial
 ## Data Sources:
 * Cryptocurrency Data: Fetches historical cryptocurrency rates and transaction data.
 * S&P 500 Data: Extracts stock and index data for companies in the S&P 500.
+* MVR Data: Retrieves detailed data on Mastercard and Visa stock.
 * Market Articles: Scrapes financial news articles related to stock market trends.
 ## Data Transformation:
 * Cleans and processes raw data, handling missing values, formatting issues, and data aggregation.
 * Outputs the cleaned data as CSV files or inserts them directly into a PostgreSQL database.
 ## Data Loading:
 * Loads transformed data into PostgreSQL tables.
-* Supports loading cryptocurrency data, S&P 500 company data, stock data, index data, and market news articles.
-## Airflow Integration:
+* Supports loading cryptocurrency data, S&P 500 company data, stock data, index data, Mastercard and Visa stock data and market news articles.
+## Airflow Integration (Optional):
 * Automates the ETL pipeline using an Apache Airflow DAG.
 * Defines tasks for extracting, transforming, and loading each dataset.
 # How to Run
