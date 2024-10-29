@@ -18,7 +18,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline for financial
 │   ├── .csv                      # All data files
 ├── pipeline_execute.py           # Main file to execute the whole pipeline
 ├── .gitignore
-├──.gitattributes
+├── .gitattributes
 └── README.md                     # Project documentation
 ```
 # Features
