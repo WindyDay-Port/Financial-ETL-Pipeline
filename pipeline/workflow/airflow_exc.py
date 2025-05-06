@@ -47,7 +47,7 @@ default_args = {
     'depends_on_past': False,
     'start_date': datetime(2024, 10, 31),
     'retry_delay': timedelta(minutes=5),
-    'catchup': False,
+    'catchup': False
 }
 
 # Define the DAG
